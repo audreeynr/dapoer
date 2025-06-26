@@ -1,9 +1,7 @@
-pandas
 streamlit
-langchain
-langchain-google-genai
-langchain-community
 google-generativeai
+langchain
 faiss-cpu
-tenacity
-tqdm
+sentence-transformers
+pandas
+fpdf
